@@ -1,10 +1,11 @@
 {
-    "name": "RetoChicosyChicas",
+    "name": "MotoresYservos",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-edubit": "github:cytrontechnologies/pxt-edubit#v1.14.0"
     },
     "files": [
         "main.blocks",
@@ -22,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
